@@ -14,7 +14,7 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: 'JW Roofing & Construction | Lubbock, TX',
+  title: 'JW Roofing & Construction',
   description: 'Licensed General Contractor serving Lubbock and surrounding communities. Residential roofing, repairs, storm damage, and construction. 20+ years experience. Free estimates.',
   keywords: ['roofing', 'construction', 'roof repair', 'hail damage', 'storm damage', 'residential roofing', 'Lubbock roofing', 'Lubbock contractor'],
 }
